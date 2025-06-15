@@ -1,0 +1,138 @@
+[
+  {
+    "id": "post1",
+    "userId": "user2",
+    "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=800&fit=crop",
+    "caption": "Watching the sunrise from this incredible mountain peak in Nepal! Sometimes you have to climb a little higher to see how beautiful life really is 🏔️✨ #travel #sunrise #nepal #hiking",
+    "likes": 2847,
+    "comments": 156,
+    "isLiked": true,
+    "isSaved": false,
+    "createdAt": "2024-01-20T08:30:00Z",
+    "user": {
+      "id": "user2",
+      "username": "sarah_travels",
+      "displayName": "Sarah Johnson",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b79de05c?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "post2",
+    "userId": "user3",
+    "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=800&fit=crop",
+    "caption": "Monday motivation! 💪 Remember, every expert was once a beginner. Your fitness journey starts with a single step. What's your goal this week? Drop it in the comments! #fitness #motivation #mondaymotivation #gym",
+    "likes": 1523,
+    "comments": 89,
+    "isLiked": false,
+    "isSaved": true,
+    "createdAt": "2024-01-19T06:15:00Z",
+    "user": {
+      "id": "user3",
+      "username": "alex_fitness",
+      "displayName": "Alex Rodriguez",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "post3",
+    "userId": "user4",
+    "imageUrl": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=800&fit=crop",
+    "caption": "Just finished this digital portrait! 🎨 I love how the colors came together to capture the mood. Art is all about expressing emotions that words can't describe. What do you see in this piece?",
+    "likes": 934,
+    "comments": 67,
+    "isLiked": true,
+    "isSaved": true,
+    "createdAt": "2024-01-18T15:45:00Z",
+    "user": {
+      "id": "user4",
+      "username": "emma_art",
+      "displayName": "Emma Chen",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "post4",
+    "userId": "user5",
+    "imageUrl": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800&h=800&fit=crop",
+    "caption": "Tried this incredible ramen place in Tokyo's Shibuya district 🍜 The broth was absolutely perfect - rich, creamy, and full of umami. This is why I travel - for experiences like this! Rating: 9.5/10",
+    "likes": 3456,
+    "comments": 234,
+    "isLiked": false,
+    "isSaved": false,
+    "createdAt": "2024-01-17T12:20:00Z",
+    "user": {
+      "id": "user5",
+      "username": "mike_foodie",
+      "displayName": "Mike Thompson",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "post5",
+    "userId": "user6",
+    "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=800&fit=crop",
+    "caption": "New sustainable collection preview! 👗✨ These pieces are made from recycled ocean plastic and organic cotton. Fashion should be beautiful AND responsible. What's your favorite sustainable brand?",
+    "likes": 2107,
+    "comments": 145,
+    "isLiked": true,
+    "isSaved": false,
+    "createdAt": "2024-01-16T09:10:00Z",
+    "user": {
+      "id": "user6",
+      "username": "lisa_fashion",
+      "displayName": "Lisa Park",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "post6",
+    "userId": "user7",
+    "imageUrl": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=800&fit=crop",
+    "caption": "Late night coding session 💻 Working on a new project that I'm really excited about! There's something magical about creating something from nothing with just code. What are you building?",
+    "likes": 876,
+    "comments": 43,
+    "isLiked": false,
+    "isSaved": true,
+    "createdAt": "2024-01-15T23:30:00Z",
+    "user": {
+      "id": "user7",
+      "username": "david_tech",
+      "displayName": "David Kim",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "post7",
+    "userId": "user8",
+    "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=800&fit=crop",
+    "caption": "Morning yoga by the beach in Bali 🧘‍♀️ Starting the day with gratitude and mindfulness. The sound of waves and gentle breeze create the perfect meditation atmosphere. Namaste 🙏",
+    "likes": 1654,
+    "comments": 98,
+    "isLiked": true,
+    "isSaved": true,
+    "createdAt": "2024-01-14T06:00:00Z",
+    "user": {
+      "id": "user8",
+      "username": "maya_wellness",
+      "displayName": "Maya Patel",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "post8",
+    "userId": "user2",
+    "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&h=800&fit=crop",
+    "caption": "Hidden gem alert! 🏝️ Found this secluded beach during my island hopping adventure in the Philippines. No crowds, just pristine sand and crystal clear water. Nature therapy at its finest!",
+    "likes": 4123,
+    "comments": 278,
+    "isLiked": false,
+    "isSaved": false,
+    "createdAt": "2024-01-13T14:25:00Z",
+    "user": {
+      "id": "user2",
+      "username": "sarah_travels",
+      "displayName": "Sarah Johnson",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b79de05c?w=150&h=150&fit=crop&crop=face"
+    }
+  }
+]

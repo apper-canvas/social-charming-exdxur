@@ -1,0 +1,132 @@
+[
+  {
+    "id": "comment1",
+    "postId": "post1",
+    "userId": "user3",
+    "text": "Absolutely breathtaking! Nepal is on my bucket list 🏔️",
+    "createdAt": "2024-01-20T09:15:00Z",
+    "user": {
+      "id": "user3",
+      "username": "alex_fitness",
+      "displayName": "Alex Rodriguez",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "comment2",
+    "postId": "post1",
+    "userId": "user4",
+    "text": "This shot is incredible! What camera did you use?",
+    "createdAt": "2024-01-20T10:30:00Z",
+    "user": {
+      "id": "user4",
+      "username": "emma_art",
+      "displayName": "Emma Chen",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "comment3",
+    "postId": "post1",
+    "userId": "user5",
+    "text": "The colors in this sunrise are magical! Thanks for sharing ✨",
+    "createdAt": "2024-01-20T11:45:00Z",
+    "user": {
+      "id": "user5",
+      "username": "mike_foodie",
+      "displayName": "Mike Thompson",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "comment4",
+    "postId": "post2",
+    "userId": "user6",
+    "text": "My goal this week is to hit the gym 4 times! 💪",
+    "createdAt": "2024-01-19T07:20:00Z",
+    "user": {
+      "id": "user6",
+      "username": "lisa_fashion",
+      "displayName": "Lisa Park",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "comment5",
+    "postId": "post2",
+    "userId": "user8",
+    "text": "Love this motivation! Starting small is the key to lasting change 🙏",
+    "createdAt": "2024-01-19T08:10:00Z",
+    "user": {
+      "id": "user8",
+      "username": "maya_wellness",
+      "displayName": "Maya Patel",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "comment6",
+    "postId": "post3",
+    "userId": "user2",
+    "text": "I see strength and vulnerability in this piece. Beautiful work! 🎨",
+    "createdAt": "2024-01-18T16:30:00Z",
+    "user": {
+      "id": "user2",
+      "username": "sarah_travels",
+      "displayName": "Sarah Johnson",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b79de05c?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "comment7",
+    "postId": "post3",
+    "userId": "user7",
+    "text": "The color palette is perfect! What software do you use?",
+    "createdAt": "2024-01-18T17:15:00Z",
+    "user": {
+      "id": "user7",
+      "username": "david_tech",
+      "displayName": "David Kim",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "comment8",
+    "postId": "post4",
+    "userId": "user1",
+    "text": "That looks absolutely delicious! Tokyo has the best ramen 🍜",
+    "createdAt": "2024-01-17T13:45:00Z",
+    "user": {
+      "id": "user1",
+      "username": "you",
+      "displayName": "You",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "comment9",
+    "postId": "post4",
+    "userId": "user6",
+    "text": "I need to visit this place! What's the restaurant name?",
+    "createdAt": "2024-01-17T14:20:00Z",
+    "user": {
+      "id": "user6",
+      "username": "lisa_fashion",
+      "displayName": "Lisa Park",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face"
+    }
+  },
+  {
+    "id": "comment10",
+    "postId": "post5",
+    "userId": "user8",
+    "text": "Love the sustainable approach! Patagonia is my favorite eco-friendly brand 🌱",
+    "createdAt": "2024-01-16T10:30:00Z",
+    "user": {
+      "id": "user8",
+      "username": "maya_wellness",
+      "displayName": "Maya Patel",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&h=150&fit=crop&crop=face"
+    }
+  }
+]

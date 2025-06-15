@@ -1,0 +1,91 @@
+[
+  {
+    "id": "user1",
+    "username": "you",
+    "displayName": "You",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "bio": "Living life one post at a time ✨ Travel enthusiast & coffee lover",
+    "followersCount": 1247,
+    "followingCount": 892,
+    "postsCount": 42,
+    "isFollowing": false,
+    "isCurrentUser": true
+  },
+  {
+    "id": "user2",
+    "username": "sarah_travels",
+    "displayName": "Sarah Johnson",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b79de05c?w=150&h=150&fit=crop&crop=face",
+    "bio": "🌍 Travel blogger | 📸 Photographer | Currently exploring Southeast Asia",
+    "followersCount": 15432,
+    "followingCount": 423,
+    "postsCount": 187,
+    "isFollowing": true
+  },
+  {
+    "id": "user3",
+    "username": "alex_fitness",
+    "displayName": "Alex Rodriguez",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "bio": "💪 Fitness coach & nutritionist | Helping you transform your life | DM for coaching",
+    "followersCount": 8765,
+    "followingCount": 234,
+    "postsCount": 156,
+    "isFollowing": false
+  },
+  {
+    "id": "user4",
+    "username": "emma_art",
+    "displayName": "Emma Chen",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+    "bio": "🎨 Digital artist & illustrator | Commissions open | Creating magic with pixels",
+    "followersCount": 12890,
+    "followingCount": 567,
+    "postsCount": 89,
+    "isFollowing": true
+  },
+  {
+    "id": "user5",
+    "username": "mike_foodie",
+    "displayName": "Mike Thompson",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+    "bio": "🍕 Food critic & chef | Exploring flavors around the world | NYC based",
+    "followersCount": 23456,
+    "followingCount": 789,
+    "postsCount": 234,
+    "isFollowing": false
+  },
+  {
+    "id": "user6",
+    "username": "lisa_fashion",
+    "displayName": "Lisa Park",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face",
+    "bio": "👗 Fashion designer & stylist | Sustainable fashion advocate | Seoul & Paris",
+    "followersCount": 18234,
+    "followingCount": 445,
+    "postsCount": 156,
+    "isFollowing": true
+  },
+  {
+    "id": "user7",
+    "username": "david_tech",
+    "displayName": "David Kim",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "bio": "💻 Software developer | Tech reviewer | Building the future one line of code at a time",
+    "followersCount": 9876,
+    "followingCount": 321,
+    "postsCount": 78,
+    "isFollowing": false
+  },
+  {
+    "id": "user8",
+    "username": "maya_wellness",
+    "displayName": "Maya Patel",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&h=150&fit=crop&crop=face",
+    "bio": "🧘‍♀️ Yoga instructor & wellness coach | Mindfulness advocate | Bali retreat leader",
+    "followersCount": 14567,
+    "followingCount": 234,
+    "postsCount": 123,
+    "isFollowing": true
+  }
+]
