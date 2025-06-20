@@ -66,19 +66,8 @@ const Header = () => {
           )}
 </div>
 
-        {/* Navigation Icons */}
+{/* Navigation Icons */}
         <div className="flex items-center gap-2">
-          {/* Chat Icon */}
-          <motion.button
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            onClick={() => navigate('/chat')}
-            className="relative p-2 rounded-full hover:bg-gray-100 transition-colors"
-            title="Messages"
-          >
-            <ApperIcon name="MessageCircle" size={20} className="text-gray-600" />
-          </motion.button>
-
           {/* Notifications Icon */}
           <motion.button
             whileHover={{ scale: 1.05 }}
@@ -88,6 +77,17 @@ const Header = () => {
             title="Notifications"
           >
             <ApperIcon name="Bell" size={20} className="text-gray-600" />
+          </motion.button>
+
+          {/* Chat Icon */}
+          <motion.button
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            onClick={() => navigate('/chat')}
+            className="relative p-2 rounded-full hover:bg-gray-100 transition-colors"
+            title="Messages"
+          >
+            <ApperIcon name="MessageCircle" size={20} className="text-gray-600" />
           </motion.button>
         </div>
 
